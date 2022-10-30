@@ -1,1 +1,1 @@
-# wp-starter-theme
+# WordPressのオリジナルテーマ作成に使えるテンプレート
